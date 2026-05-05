@@ -95,4 +95,4 @@ ucaria/
 UCAR Pulse se base sur une approche multi-role : l'administration centrale dispose d'une vue globale, tandis que chaque institution accede a son propre perimetre. Les donnees sensibles doivent etre configurees via des variables d'environnement et les acces Supabase doivent etre limites selon les roles.
 
 ---
-Developpe par : [Chatti Mohamed Rayen](https://github.com/rayenchatti)
+Developpe par : [Chatti Mohamed Rayen](https://github.com/rayenchatti),[Farouk Battikh](https://github.com/FARUKxKUN),[Yassine Bouteraa](https://github.com/yassinebouteraa),[Bedis Kouki]
