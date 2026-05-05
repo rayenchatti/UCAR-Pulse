@@ -2,6 +2,8 @@
 
 UCAR Pulse est une plateforme moderne de pilotage universitaire pour l'Universite de Carthage. Elle centralise les indicateurs cles, automatise l'analyse des donnees institutionnelles et aide les responsables a prendre des decisions rapides grace a des tableaux de bord, des alertes et un assistant IA contextualise.
 
+**Prototype** : [https://lnkd.in/dw686rcB](https://lnkd.in/dw686rcB)
+
 ## 🚀 Fonctionnalites Cles
 
 ### 👥 Pour l'Administration UCAR
